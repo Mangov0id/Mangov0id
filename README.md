@@ -3,6 +3,12 @@
 <p align="center">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Mangov0id&theme=noctis-minimus&date_format=n%2Fj%5B%2FY%5D"/>
 </p>
+
+---
+
+<h1 align="center">Mango Stats</h1>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mangov0id&theme=gruvbox)
 <!--
 **Mangov0id/Mangov0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
